@@ -4,7 +4,7 @@
 
 ### A Next-Generation WhatsApp Multi-Device Bot
 
-<img src="IMG-20260821-WA0100.jpg" width="650">
+<img src="IMG-20260821-WA0100.jpg" width="5000">
 
 <br><br>
 
@@ -15,9 +15,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/leonarldwilliams-pixel/Godem-X-MD)
 
 </div>
-
 ---
-
 <div align="center">
 
 # 🚀 Deploy 『 𝙂𝙊𝘿𝙀𝙈 𝙓 𝙈𝘿 』
