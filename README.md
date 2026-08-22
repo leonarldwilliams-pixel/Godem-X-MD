@@ -1,22 +1,18 @@
 <div align="center">
 
-# ⚡ 『 𝙂𝙊𝘿𝙀𝙈 𝙓 𝙈𝘿 』
+# 『 𝙂𝙊𝘿𝙀𝙈 𝙓 𝙈𝘿 』
 
-### 🚀 Next-Generation WhatsApp Multi-Device Bot
+### A Next-Generation WhatsApp Multi-Device Bot
 
 <img src="IMG-20260821-WA0100.jpg" width="350">
 
 <br><br>
 
-### ⌨️ 𝙂𝙊𝘿𝙀𝙈 𝙓 𝙈𝘿 • Created by Godem official 
-
-**Powerful • Modular • Customizable • Open Development**
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1400&color=FF0000&center=true&vCenter=true&width=650&height=120&lines=Godem+X+MD;Created+by+Godem+Official;A+masterpiece+in+creation;Code.+Create.+Innovate.;Building+the+future%2C+one+line+at+a+time.;Dream+it.+Build+it.+Improve+it.;Turning+ideas+into+useful+things." alt="GODEM X MD">
 
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/leonarldwilliams-pixel/Godem-X-MD)
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348065095451)
 
 </div>
 
@@ -26,22 +22,19 @@
 
 # 🚀 Deploy 『 𝙂𝙊𝘿𝙀𝙈 𝙓 𝙈𝘿 』
 
-</div>
-
 Choose your preferred deployment platform.
 
 <br>
-
-<div align="center">
 
 [![Render](https://img.shields.io/badge/Deploy%20on-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com/)
 
 [![Katabump](https://img.shields.io/badge/Deploy-Katabump-111111?style=for-the-badge)](https://katabump.com/)
 
-</div>
+<br><br>
 
-> ⚠️ Deployment configuration is currently being developed.
-> Some deployment buttons may not be functional yet.
+<sub><i>Some deployment options are currently under development.</i></sub>
+
+</div>
 
 ---
 
@@ -49,25 +42,25 @@ Choose your preferred deployment platform.
 
 # 📲 Pair 『 𝙂𝙊𝘿𝙀𝙈 𝙓 𝙈𝘿 』
 
-### Connect your WhatsApp account
+Connect your WhatsApp account to GODEM X MD.
 
 <br>
 
 [![PAIR NOW](https://img.shields.io/badge/📲%20PAIR%20NOW-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#pairing)
 
+<br><br>
+
+<sub><i>Pairing service is currently under development.</i></sub>
+
 </div>
 
 ---
 
+<a name="pairing"></a>
+
 ## 🔐 Pairing
 
-The official GODEM X MD pairing system is currently being built.
+The official GODEM X MD pairing system will be available here once
+the pairing server is ready.
 
-```text
-╔══════════════════════════════╗
-║       GODEM X MD             ║
-║                              ║
-║      PAIRING SYSTEM          ║
-║                              ║
-║       COMING SOON...         ║
-╚══════════════════════════════╝
+---
