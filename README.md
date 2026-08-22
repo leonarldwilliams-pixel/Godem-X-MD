@@ -4,7 +4,7 @@
 
 ### A Next-Generation WhatsApp Multi-Device Bot
 
-<img src="IMG-20260821-WA0100.jpg" width="350">
+<img src="IMG-20260821-WA0100.jpg" width="650">
 
 <br><br>
 
